@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-p3pzly.date-me.pro/sitemap.xml
